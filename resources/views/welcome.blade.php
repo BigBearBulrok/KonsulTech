@@ -16,7 +16,7 @@
             <h1 class="text-4xl font-bold">WELCOME!</h1>
             <p class="text-2xl mt-4">JASA KONSULTASI TEKNOLOGI TERTEPAT SESUAI KEBUTUHAN, ANGGARAN, DAN PREFERENSI ANDA</p>
             <p class="text-lg mt-6">Kami adalah layanan konsultasi yang dirancang untuk membantu Anda memilih produk elektronik terbaik sesuai kebutuhan, anggaran, dan preferensi.</p>
-            <a href="#" class="mt-8 inline-block px-6 py-3 bg-white text-green-700 font-bold rounded shadow-lg hover:bg-gray-200">
+            <a href="https://wa.me/6280" class="mt-8 inline-block px-6 py-3 bg-white text-green-700 font-bold rounded shadow-lg hover:bg-gray-200">
                 Hubungi Kami
             </a>
         </div>
@@ -84,7 +84,7 @@
             </div>
             <!-- Button below the services section, outside the loop -->
             <div class="mt-12 text-center w-full">
-                <a href="#" class="inline-block px-6 py-3 bg-white text-green-700 font-bold rounded shadow-lg hover:bg-gray-200">
+                <a href="https://wa.me/6280" class="inline-block px-6 py-3 bg-white text-green-700 font-bold rounded shadow-lg hover:bg-gray-200">
                     Hubungi Kami
                 </a>
             </div>
